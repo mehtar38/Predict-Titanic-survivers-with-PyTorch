@@ -1,5 +1,3 @@
-# Predict-Titanic-survivers-with-PyTorch
-
 # Machine Learning Project: Titanic Survival Prediction
 
 This project implements linear modeling in PyTorch to predict passenger survival on the Titanic.
